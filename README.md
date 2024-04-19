@@ -1,5 +1,5 @@
 # Calculator_CPP
-Implementation of SmartCalc on C++
+Implementation of Calc on C++
 
 
 *Dijkstra's algorithm* is used to translate expressions into *reverse Polish notation* to implement the calculator. 
